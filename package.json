@@ -4,7 +4,7 @@
   "description": "",
   "main": "serve.ts",
   "scripts": {
-    "start": "ts-node-dev serve.ts"
+    "start": "ts-node serve.ts"
   },
   "keywords": [],
   "author": "",
